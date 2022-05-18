@@ -1,0 +1,349 @@
+.bg-light{
+    border-radius: 6px !important;
+    background: #BC3C32 !important;
+    margin: 5px auto;
+    font-family: Oswald;
+    font-weight: bold;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 1rem;
+}
+.container img{
+    width: 15rem;
+}
+.dropdown-menu{
+    background: #BC3C32 !important;
+    font-family: Oswald;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 1rem;
+}
+
+.carousel-item h5, p{
+    line-height: 1.5;
+    font-size: 20px;
+    font-family: Oswald;
+    font-weight: bold;
+}
+
+.img1{
+    width: 5rem;
+}
+.img{
+    width: 2rem;
+}
+.contenido{
+    background: #FCD391 ;
+    padding: 5rem;
+    border-radius: 6px;
+}
+/*que hacemos*/
+.contenido1{
+    background: #FCD391 ;
+    padding: 0.5rem;
+    border-radius: 6px;
+}
+
+.hacemos p{
+    line-height: 1.5;
+    text-align: justify;
+}
+
+/*footer*/
+.pie{
+    border-radius: 6px;
+    background:  #BC3C32 !important;
+   
+}
+/*que hacemos*/
+/* .hacemos p {
+    line-height: 1.5;
+    font-size: 20px;
+    color: black;
+    text-align: justify;
+    font-size: 16px;
+    margin: auto;
+    font-family: Oswald;
+    font-weight: bold;
+} */
+
+/* .pavideo {
+    text-align: center;
+    width: auto;
+} */
+
+
+/*productos*/
+/* .contenedordos .contenido {
+    border-radius: 4px;
+    grid-area: contenido;
+}
+
+.contenido section {
+    background: #FCD391;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.contenido section>div>h1 {
+    color: rgb(191, 35, 35);
+    text-align: initial;
+    font-size: 30px;
+    margin: auto;
+    font-family: Oswald;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.contenido section nav>div>h1 {
+    color: black;
+    text-align: initial;
+    font-size: 25px;
+    margin: auto;
+    font-family: Oswald;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.chipa {
+    display: flex;
+}
+
+.chipa img {
+    border-radius: 30px;
+    padding: 20px 20px;
+    width: 30%; */
+    /* transition: transform 1s; */
+    /* filter: grayscale(100%);
+    transition: all .5s;
+     }
+
+.chipa img:hover { */
+    /* transform: scale(1.2); */
+    /* filter: grayscale(0);
+    transform: scale(1.1);
+    z-index: 2;
+    cursor: pointer;
+}
+
+
+.chipa p {
+    color: black;
+    text-align: justify;
+    font-size: 16px;
+    margin: auto;
+    font-family: Oswald;
+    font-weight: bold;
+
+} */
+
+/* fotter */
+/* .contenedordos .pie {
+    border-radius: 4px;
+    width: 100%;
+    padding: 0px 5px;
+    background-color: #BC3C32;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    align-items: center;
+    grid-area: pie;
+}
+
+.pie_copi {
+    padding: 0px 15px;
+    line-height: normal;
+}
+
+.parrafo {
+    font-size: 1.5rem;
+    font-family: Oswald;
+}
+
+.pie_social ul li img {
+    width: 3rem;
+}
+
+.pie_social {
+    width: 200px;
+    text-align: right;
+}
+
+.pie_social ul {
+    list-style: none;
+    display: flex;
+}
+
+.pie_social ul li {
+    margin: 10px 5px;
+} */
+
+/*vender*/
+/* .chipa video {
+    border-radius: 30px;
+    padding: 20px 20px;
+    width: 400px;
+    height: 400px;
+}
+
+.contacto {
+    text-align: right;
+    text-decoration: none;
+    list-style: none;
+} */
+
+/*contacto*/
+/* .contenido .contacto2 {
+    color: rgb(191, 35, 35); */
+    /* padding: 20px; */
+    /* text-align: initial;
+    font-size: 20px;
+    margin: auto;
+    background: #FCD391;
+    font-family: Oswald;
+    font-weight: bold;
+    text-decoration: none;
+    text-transform: uppercase; */
+    /* font-size: 2rem; */
+/* 
+}
+
+h1 {
+    padding: 20px;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.formulario {
+    width: 100rem;
+    background-color: blanchedalmond;
+    padding: 30px;
+    margin: auto;
+    margin-top: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    font-size: 2rem;
+    border-radius: 6px;
+
+}
+
+.control {
+    width: 100%;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 2rem;
+}
+
+.boton {
+    width: 100%;
+    background: gray;
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 18px;
+}
+
+select {
+    margin-bottom: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 2rem;
+}
+
+.rof {
+    padding: 10px;
+}
+
+#comentarios {
+    width: 100%;
+    padding: 60px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 2rem;
+} */
+
+/* media queries */
+/* @media screen and (max-width: 768px) {
+    .contenedordos {
+        flex-wrap: wrap; */
+        /* grid-template-areas: "cabeza"
+            "cabeza"
+            "contenido"
+            "contenido"
+            "pie"
+            "pie"; */
+/* 
+    }
+
+    .portada img {
+        flex-wrap: 1;
+        width: 100%;
+        height: auto;
+    }
+
+    .video {
+        width: 70%;
+        height: auto;
+        padding: 5px;
+        margin: 5px;
+    }
+
+    .contenido .hacemos h1,
+    p {
+        font-size: 2rem;
+        padding: 2px;
+        margin: 2px;
+    }
+
+    .contenido section h1,
+    p {
+        font-size: 2rem;
+        padding: 2px;
+        margin: 2px;
+    }
+
+    .chipa{
+        display: block;
+    }
+
+    .contenido .chipa p {
+        font-size: 2rem;
+        padding: 2px;
+        margin: 2px;
+    }
+    .contenido .chipa img{
+        width: 100%;
+        height: 100%;
+    }
+    .menu-area ul {
+        flex-wrap: wrap;
+    }
+    .chipa video{
+        width: 70%;
+        height: auto;
+        padding: 5px;
+        margin: 5px;
+    }
+    .contacto img{
+        width: 70%;
+        height: auto;
+    }
+    .pie {
+        flex-wrap: wrap;
+        justify-content: center;
+        align-self: flex-start;
+        width: auto;
+        height: auto;
+    }
+    .contenido iframe {
+        width: 90%;
+        height: auto;
+    }
+    .formulario {
+        width: 70%;
+    }
+} */
