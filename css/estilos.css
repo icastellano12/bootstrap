@@ -25,7 +25,6 @@
     font-family: Oswald;
     font-weight: bold;
 }
-
 .img1{
     width: 5rem;
 }
@@ -52,9 +51,23 @@
 /*footer*/
 .pie{
     border-radius: 6px;
-    background:  #BC3C32 !important;
-   
+    background:  #BC3C32 !important;   
 }
+
+/*productos*/
+#galeria .col-lg-4{
+    margin: 0 !important;
+    padding: 25px;
+}
+#galeria img{
+    width: 100%;
+    height: 200%;
+}
+#galeria img:hover{
+    border: 5px solid white;
+}
+
+
 /*que hacemos*/
 /* .hacemos p {
     line-height: 1.5;
